@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0f757130545cd94b92d3dc25e6e7ce8
+timeCreated: 1516119076
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72257
+  packageName: Windows Pack
+  packageVersion: 1.3
+  assetPath: Assets/Windows Pack/Models/Materials/color 1.mat
+  uploadId: 619607

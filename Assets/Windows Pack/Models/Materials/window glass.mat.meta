@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ed0115dba3e4f34ca34a0b79905d887
+timeCreated: 1474814096
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72257
+  packageName: Windows Pack
+  packageVersion: 1.3
+  assetPath: Assets/Windows Pack/Models/Materials/window glass.mat
+  uploadId: 619607
