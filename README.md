@@ -23,4 +23,8 @@ smooth object rotation and realistic surface behavior.
 
 ## 🎥 Demo
 
-![WallBlocker Demo](Images/wallblocker.gif)
+<p align="center">
+  <img src="Images/wallblocker.gif?raw=true" 
+       alt="WallBlocker Demo" width="600">
+</p>
+
